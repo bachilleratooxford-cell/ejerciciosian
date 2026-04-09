@@ -1,3 +1,4 @@
-nombre=input("ingrese su nombre ")
-edad=float(input("ingrese su edad "))
-print ("su nombre es",nombre,"su edad es",edad)
+print ("ian santiago vasquez chaman ",end="")
+print ("tengo 16 años ",end="")
+print ("4to bach")
+#echo por iansantiago avasquez chaman
